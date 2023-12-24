@@ -2,11 +2,4 @@
 Hi
 Usr Sohan_Branch
 Loc Banglore
-Tekcypher Banglore
-
-=======
-Hi
-User Marc_Branch
-Loc Hyderabad
 Tekcypher Hyderabad
->>>>>>> Marc_Branch
